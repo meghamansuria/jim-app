@@ -45,8 +45,8 @@ Material UI creates react components for faster and easier web development. We u
 The React Testing Library builds on top of the DOM Testing Library by adding APIs for working with React components. This library encouranges your applications ot be more accessible and allows us to get our tests closer to using our components the way a user would. 
 ### Axios
 Just like in our other assignments in class, we use axios which is a promise based HTTP client for the browser. This helps us send asynchronous HTTP requests to endpoints and we use it with React. 
-### Formix
-Formix is a small group of React componest and hooks that help us build our forms in React. This helps with validation and error messages, handling form submission, and getting values in and out of the form state. 
+### Formik
+Formik is a small group of React components and hooks that helps us build our forms in React. This helps with validation and error messages, handling form submission, and getting values in and out of the form state. 
 ### Lodash
 Lodash makes javasript easier by taking out the hassle when working with arrays, numbers, objects, strings, etc. We use it to iterate through arrays, objects and strings, and manipulate and test values.
 ### Moment
